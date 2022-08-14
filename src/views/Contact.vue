@@ -13,13 +13,12 @@
         </div>
         <div class="py-4 subheading font-weight-bold">
           <v-icon large color="green" left>fas fa-envelope</v-icon>
-          <span>eldin@</span>
-          <span class="green--text">zaimovic.com</span>
+          <span>dinqaadarajjee@gmail.com</span>
         </div>
         <div class="py-4 subheading font-weight-bold">
           <v-icon large color="green" left>fas fa-phone</v-icon>
-          <span>+387&nbsp;</span>
-          <span class="green--text">61 596 676</span>
+          <span>+251&nbsp;</span>
+          <span class="green--text">913 896 896</span>
         </div>
         <div class="py-4 subheading font-weight-bold">
           <v-icon large color="green" left>fas fa-check</v-icon>
@@ -34,7 +33,7 @@
           <span class="green--text">Form</span>
         </h2>
 
-        <form method="POST" action="https://formspree.io/eldin@zaimovic.com">
+        <form method="POST" action="https://formspree.io/f/xqkjkdeam">
           <v-text-field
             name="name"
             color="green"
@@ -97,13 +96,13 @@ export default {
       {
         name: "description",
         content:
-          "Eldin Zaimovic's Contact Doboj Bosnia and Herzegovina Freelance Get in Touch ContactMe"
+          "Dinka Dereje's Contact  Freelance Get in Touch ContactMe"
       },
       { charset: "utf-8" },
-      { property: "og:title", content: "Eldin' Space" },
-      { property: "og:site_name", content: "Eldin' Space" },
+      { property: "og:title", content: "Dinka' Space" },
+      { property: "og:site_name", content: "Dinka' Space" },
       { property: "og:type", content: "website" },
-      { property: "og:url", content: "https://eldin.space" },
+      { property: "og:url", content: "https://dinkadereje.netlify.app/" },
       {
         property: "og:image",
         content: "https://i.imgur.com/Dcz2PGx.jpg"
@@ -111,7 +110,7 @@ export default {
       {
         property: "og:description",
         content:
-          "Eldin Zaimovic's Contact Doboj Bosnia and Herzegovina Freelance Get in Touch ContactMe"
+          "Dinka Dereje's Contact Freelance Get in Touch ContactMe"
       }
     ]
   },
