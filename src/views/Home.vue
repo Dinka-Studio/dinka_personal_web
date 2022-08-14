@@ -23,7 +23,7 @@
 
     <br>
 
-    <vue-typer class="headline" :repeat="0" text="Eldin Zaimovic"></vue-typer>
+    <vue-typer class="headline" :repeat="0" text="Dinka Dereje"></vue-typer>
     <vue-typer
       :text="text1"
       :repeat="Infinity"
@@ -48,7 +48,7 @@
             </h3>
             <div>
               <p>
-                Hello! I’m Eldin Zaimovic. I'm a front-end developer who
+                Hello! I’m Dinka Dereje. I'm a full-stack developer who
                 is passionate about
                 <span
                   class="green--text font-weight-bold"
@@ -102,20 +102,20 @@ import VueCompareImage from "vue-compare-image";
 export default {
   metaInfo: {
     title: "Home",
-    titleTemplate: "%s ← Eldin's Space",
+    titleTemplate: "%s ← Dinka's Space",
     meta: [
       { name: "viewport", content: "width=device-width, initial-scale=1" },
-      { name: "description", content: "Eldin Zaimovic's Portfolio" },
+      { name: "description", content: "Dinka Dereje's Portfolio" },
       { charset: "utf-8" },
-      { property: "og:title", content: "Eldin' Space" },
-      { property: "og:site_name", content: "Eldin' Space" },
+      { property: "og:title", content: "Dinka' Space" },
+      { property: "og:site_name", content: "Dinka' Space" },
       { property: "og:type", content: "website" },
-      { property: "og:url", content: "https://eldin.space" },
+      { property: "og:url", content: "https://dinkadereje.netlify.app" },
       {
         property: "og:image",
         content: "https://i.imgur.com/Dcz2PGx.jpg"
       },
-      { property: "og:description", content: "Eldin Zaimovic's Portfolio" }
+      { property: "og:description", content: "Dinka Dereje's Portfolio" }
     ]
   },
   components: {
@@ -125,27 +125,27 @@ export default {
   data() {
     return {
       icons: [
-        { href: "https://github.com/EldinZaimovic", icon: "fab fa-github" },
+        { href: "https://github.com/dinkadereje", icon: "fab fa-github" },
         {
           href: "https://stackoverflow.com/users/story/9660700",
           icon: "fab fa-stack-overflow"
         },
-        { href: "https://twitter.com/EldinMatricar", icon: "fab fa-twitter" },
+        { href: "https://twitter.com/dinkoo", icon: "fab fa-twitter" },
         {
-          href: "https://www.linkedin.com/in/eldin-zaimovic",
+          href: "https://www.linkedin.com/in/dinka1way",
           icon: "fab fa-linkedin-in"
         },
         {
-          href: "https://www.xing.com/profile/Eldin_Zaimovic?sc_o=mxb_p",
+          href: "https://www.xing.com/profile/",
           icon: "fab fa-xing"
         },
         {
-          href: "https://www.facebook.com/EldinVasVoli",
+          href: "https://www.facebook.com/dinka.dereje.5",
           icon: "fab fa-facebook-f"
         },
-        { href: "https://www.instagram.com/matricar", icon: "fab fa-instagram" }
+        { href: "https://www.instagram.com/dinka1way", icon: "fab fa-instagram" }
       ],
-      text1: ["Front-End Developer", "Web Developer", "Web Designer"],
+      text1: ["Front-End Developer", "Backend Developer", "Web Designer"],
       leftImage: "https://i.imgur.com/bU50uS9.jpg",
       rightImage: "https://i.imgur.com/z3ZoEEw.jpg",
       leftImage2: "https://i.imgur.com/SXBitjh.jpg",
