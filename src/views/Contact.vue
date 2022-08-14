@@ -8,8 +8,8 @@
         </h2>
         <div class="py-4 subheading font-weight-bold">
           <v-icon large color="green" left>fas fa-map-marker-alt</v-icon>
-          <span>Doboj,&nbsp;</span>
-          <span class="green--text">Bosnia & Herzegovina</span>
+          <span>Addis Ababa,&nbsp;</span>
+          <span class="green--text">Ethiopia</span>
         </div>
         <div class="py-4 subheading font-weight-bold">
           <v-icon large color="green" left>fas fa-envelope</v-icon>
@@ -22,8 +22,8 @@
         </div>
         <div class="py-4 subheading font-weight-bold">
           <v-icon large color="green" left>fas fa-check</v-icon>
-          <span>Freelance</span>
-          <span class="green--text">Available</span>
+          <span>Freelance </span>
+          <span class="green--text"> Available</span>
         </div>
       </v-flex>
 
@@ -90,13 +90,13 @@ import {
 export default {
   metaInfo: {
     title: "Contact",
-    titleTemplate: "%s ← Eldin's Space",
+    titleTemplate: "%s ← Dinka's Space",
     meta: [
       { name: "viewport", content: "width=device-width, initial-scale=1" },
       {
         name: "description",
         content:
-          "Dinka Dereje's Contact  Freelance Get in Touch ContactMe"
+          "Dinka Dereje's Contact Addis Ababa Ethiopia Freelance Get in Touch ContactMe"
       },
       { charset: "utf-8" },
       { property: "og:title", content: "Dinka' Space" },
@@ -110,7 +110,7 @@ export default {
       {
         property: "og:description",
         content:
-          "Dinka Dereje's Contact Freelance Get in Touch ContactMe"
+          "Dinka Dereje's Contact Freelance Get in Touch Contact Me"
       }
     ]
   },
