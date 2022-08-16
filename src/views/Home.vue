@@ -148,7 +148,7 @@ export default {
       text1: ["Front-End Developer", "Backend Developer", "Web Designer"],
       leftImage: "https://i.imgur.com/bU50uS9.jpg",
       rightImage: "https://i.imgur.com/z3ZoEEw.jpg",
-      leftImage2: "https://i.imgur.com/SXBitjh.jpg",
+      leftImage2: "https://i.imgur.com/buTZW37.jpg",
       rightImage2: "https://i.imgur.com/Dcz2PGx.jpg",
       sliderLine: 0,
       hSize: 0,
