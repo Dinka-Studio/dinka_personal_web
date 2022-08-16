@@ -26,7 +26,7 @@ export default {
   name: "App",
   metaInfo: {
     title: "Home",
-    titleTemplate: "%s ← Eldin's Space",
+    titleTemplate: "%s ← Dinka's Space",
     meta: [
       { name: "viewport", content: "width=device-width, initial-scale=1" },
       { name: "description", content: "Dinka Dereje's Portfolio" },
