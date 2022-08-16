@@ -52,7 +52,7 @@
                 is passionate about
                 <span
                   class="green--text font-weight-bold"
-                >VUE</span>, building great user experiences,
+                >VUE</span> and <span class="green--text font-weight-bold">Django</span>, building great user experiences,
                 fighting for simplicity over complexity and constantly learning.
                 When I'm not coding or making videos, you'll find me traveling across Europe.
               </p>
