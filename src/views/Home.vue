@@ -146,7 +146,7 @@ export default {
         { href: "https://www.instagram.com/dinka1way", icon: "fab fa-instagram" }
       ],
       text1: ["Front-End Developer", "Backend Developer", "Web Designer"],
-      leftImage: "https://i.imgur.com/bU50uS9.jpg",
+      leftImage: "https://i.imgur.com/jTy3erC.jpg",
       rightImage: "https://i.imgur.com/g1z6X8k.jpg",
       leftImage2: "https://i.imgur.com/buTZW37.jpg",
       rightImage2: "https://i.imgur.com/Dcz2PGx.jpg",
